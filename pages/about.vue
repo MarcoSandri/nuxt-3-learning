@@ -1,6 +1,8 @@
 <template>
-  <div class="container">
-    ABOUT
+  <div class="container flex">
+    <Card text="UNO"/>
+    <Card text="DUE"/>
+    <Card text="TRE"/>
   </div>
 </template>
 
